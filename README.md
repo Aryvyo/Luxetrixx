@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Luxetrixx
+- 👀 I’m interested in getting into web dev
+- 🌱 I’m currently learning machine learning in Python
