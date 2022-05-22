@@ -2,8 +2,9 @@
 <h1 align="center">Lux</h1>
 <h3 align="center">A passionate developer from Kurdistan</h3>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/images/860a42a32c4f7f4e36df3470088b7470/tenor.gif" />
-
+<p align="center">
+	<img  src="http://github-readme-streak-stats.herokuapp.com?user=luxetrixx&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00"/>
+</p>
 
 - 📚 First year A level student, doing Chemistry, Biology, Physics, Computer Science and Math
 - 📝 Currently working on [ExamGoat.com](https://www.examgoat.com)!
