@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Kurdistan</h3>
 
 <p align="center">
-	(https://github-readme-stats.vercel.app/api?username=Luxetrixx)](https://github.com/anuraghazra/github-readme-stats&border=6a3baf&bg_color=0D0D11&text_color=6a3baf&icon_color=6a3baf&title_color=dedede)
+	[![Lux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luxetrixx)](https://github.com/anuraghazra/github-readme-stats&border=6a3baf&bg_color=0D0D11&text_color=6a3baf&icon_color=6a3baf&title_color=dedede)
 </p>
 
 - 📚 First year A level student, doing Chemistry, Biology, Physics, Computer Science and Math
