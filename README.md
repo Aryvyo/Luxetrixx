@@ -10,7 +10,7 @@
 <p align="center">
   <ul>
     <li>📚 First year A level student, doing Chemistry, Biology, Physics, Computer Science and Math</li>
-    <li📝 Currently working on [ExamGoat.com](https://www.examgoat.com)! 🐐</li>
+    <li>📝 Currently working on [ExamGoat.com](https://www.examgoat.com)! 🐐</li>
   </ul>
 </p>
 
