@@ -2,7 +2,7 @@
 <h1 align="center">Lux</h1>
 <h3 align="center">A passionate developer from Kurdistan</h3>
 
-[![Lux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luxetrixx&border-color=6a3baf&bg_color=0D0D11&text_color=dedede&icon_color=6a3baf&title_color=6a3baf)](https://github.com/anuraghazra/github-readme-stats)
+[![Lux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luxetrixx&border_color=6a3baf&bg_color=0D0D11&text_color=dedede&icon_color=6a3baf&title_color=6a3baf)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📚 First year A level student, doing Chemistry, Biology, Physics, Computer Science and Math
 - 📝 Currently working on [ExamGoat.com](https://www.examgoat.com)! 🐐
