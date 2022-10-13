@@ -45,8 +45,5 @@
          <a href="https://github.com/ethereum/solidity" target="_blank"
         rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg" alt="solidity" width="40"
             height="40" />
-        
-        
-    </a> 
 </p>
 
