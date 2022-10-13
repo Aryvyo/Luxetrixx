@@ -7,9 +7,9 @@
 </p>
 <br/>
 
-<p align="center">
+<p align="center" text-align="center">
   <ul>
-    <li>📚 First year A level student, doing Chemistry, Biology, Physics, Computer Science and Math</li>
+    <li>📚 Second year A level student, doing Chemistry, Biology, Physics, Computer Science and Math</li>
     <li>📝 Currently working on <span href="https://www.examgoat.com">WWW.ExamGoat.com!</span> 🐐</li>
   </ul>
 </p>
