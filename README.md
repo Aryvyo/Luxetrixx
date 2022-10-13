@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Kurdistan</h3>
 
 <p align="center">
-	<img  src="http://github-readme-streak-stats.herokuapp.com?user=luxetrixx&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00&bg_color=0D0D11&text_color=6a3baf&icon_color=6a3baf&title_color=dedede"/>
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=luxetrixx&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00&bg_color=0D0D11&text_color=6a3baf&icon_color=6a3baf&title_color=dedede"/>
 </p>
 
 - 📚 First year A level student, doing Chemistry, Biology, Physics, Computer Science and Math
