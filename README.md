@@ -9,7 +9,6 @@
 
 <p align="center" text-align="center">
   <ul>
-    <li>📚 Second year A level student, studying Biology, Physics, Computer Science and Math</li>
     <li>📝 Currently working on <span href="https://www.examgoat.com">www.ExamGoat.com!</span> 🐐</li>
   </ul>
 </p>
