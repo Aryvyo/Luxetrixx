@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Kurdistan</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Luxetrixx&border_color=6a3baf&bg_color=0D0D11&text_color=dedede&icon_color=6a3baf&title_color=6a3baf" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aryvyo&border_color=6a3baf&bg_color=0D0D11&text_color=dedede&icon_color=6a3baf&title_color=6a3baf" />
 </p>
 <br/>
 
