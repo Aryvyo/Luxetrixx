@@ -1,5 +1,5 @@
 
-<h1 align="center">Lux</h1>
+<h1 align="center">Aryas Shwan</h1>
 <h3 align="center">A passionate developer from Kurdistan</h3>
 
 <p align="center">
