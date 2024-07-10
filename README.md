@@ -1,6 +1,5 @@
 
 <h1 align="center">Aryas</h1>
-<h3 align="center">A passionate developer from Kurdistan</h3>
 
 ![Discord_LBILldxOYw](https://github.com/Aryvyo/Aryvyo/assets/32790578/4340ffb3-bbd7-45af-91a0-67d8f4f50c90)
 
